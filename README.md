@@ -1,3 +1,8 @@
+# Running Deductions Checker
+```bash
+python3.9 commands.py -c deductions -e ED_TOKEN -l 'https://edstem.org/us/courses/70324/lessons/126570/attempts?email=iywang@uw.edu&slide=706149' -t -f
+```
+
 # BackreadingBot
 This script library allows CSE 12x/14x TAs perform various grading assistance checks on Ed assignments
 
